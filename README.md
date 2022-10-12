@@ -41,3 +41,12 @@ Detailed here is the strategies and technologies we will use to achieve our goal
 * The ARCS will be able to utilize environmental information to accomplish this task. 
 
 * The ARCS will communicate with the rover remotely and over ROS2. 
+
+## References
+* Deep Object Pose Estimation - ROS Inference: https://github.com/NVlabs/Deep_Object_Pose 
+* Particle Filter ROS like (to help navigation): https://github.com/mit-racecar/particle_filter
+* Arm Manipulation: http://wiki.ros.org/robotican/Tutorials/Arm%20manipulation
+* Reinforcement Learning with ROS and Gazebo: https://github.com/vmayoral/basic_reinforcement_learning/blob/master/tutorial7/README.md
+* Motion planning like: https://moveit.ros.org/ or https://navigation.ros.org/
+* Control systems: https://control.ros.org/master/index.html
+
